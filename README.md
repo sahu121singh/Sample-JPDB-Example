@@ -23,3 +23,4 @@ JsonPowerDB is a **Real-time**, **High Performance**, **Lightweight** and Simple
 * Live working HTML templates.
 
 ![DashBoard of JPDB](/images/DashBoard.png)
+Format: ![DashBoard of JPDB](/images/DashBoard.png)
