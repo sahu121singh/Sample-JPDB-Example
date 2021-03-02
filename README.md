@@ -21,3 +21,5 @@ JsonPowerDB is a **Real-time**, **High Performance**, **Lightweight** and Simple
 * Best suited to real-time application for data Analytics
 * Improve Existing applications reporting / analytics performance
 * Live working HTML templates.
+
+![DashBoard of JPDB](/images/DashBoard.png)
